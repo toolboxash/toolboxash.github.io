@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://toolboxash.github.io/sitemap.xml 
